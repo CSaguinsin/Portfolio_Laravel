@@ -102,7 +102,7 @@
     <div class="lg:w-1/2 lg:pr-6">
         <h1 class="text-3xl lg:text-4xl font-bold mb-4">ABOUT 👏🏻</h1>
         <p class='mb-4 paragph'>
-        I am Carl Saginsin, a Full Stack Web Developer diving deep into the world of technology. My toolbox includes HTML, CSS, and JavaScript as my foundational languages. I craft sleek and responsive designs using Bootstrap or TailwindCSS, while jQuery adds that extra touch of interactivity. My love for building user interfaces extends to React.js, where I create dynamic and engaging web applications. When it comes to the backend, I rely on the power of Node.js and Firebase for seamless functionality and real-time updates. Additionally, I wield MySQL for efficient database management, ensuring robust and scalable solutions. I thrive on challenges and love transforming ideas into code. Let's connect and craft something amazing together!
+        I am Carl Saginsin, Full Stack Web Developer diving deep into the world of technology. My toolbox includes HTML, CSS, and JavaScript as my foundational languages. I craft sleek and responsive designs using Bootstrap or TailwindCSS, while jQuery adds that extra touch of interactivity. My love for building user interfaces extends to React.js, where I create dynamic and engaging web applications. When it comes to the backend, I rely on the power of Node.js and Firebase for seamless functionality and real-time updates. Additionally, I wield MySQL for efficient database management, ensuring robust and scalable solutions. I thrive on challenges and love transforming ideas into code. Let's connect and craft something amazing together!
         </p>
         <p class='mb-4 paragph'>
         📧 Open for works!: saguinsincarl8@gmail.com
