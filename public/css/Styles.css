@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@300&display=swap');
+
+.FirstTitle {
+    text-align: center;
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 50px;
+}
+
+.secondTitle {
+ padding-left: 30px;
+ font-family: 'Lexend', sans-serif;
+}
+
+.paragph {
+    font-family: 'Lexend', sans-serif;
+
+   }
+
+
+.LandingTitle {
+    font-family: 'Lexend', sans-serif;
+    font-size: 70px;
+    padding-left: 30px;
+}
+
+.buttons {
+    font-family: 'Lexend', sans-serif;
+    padding-left: 30px;
+    padding-top: 30px;
+    color: blue;
+}
